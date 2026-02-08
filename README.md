@@ -1,4 +1,14 @@
 # MBLS307 Omics for the Life Sciences 2025-2026
+
+
+# Git - how to README
+Install Git, not GitHub Desktop
+
+Useful links:
+- Configure GitHub for Rstudio https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+# Assignment 1 README
 This repository contains code for the GWAS assignment in the course Omics for the Life Sciences 2025-2026. It is based on the publication Dijkhuizen et al., 2024:
 - https://doi.org/10.1111/tpj.70405
 - https://github.com/SnoekLab/Dijkhuizen_etal_2025_Drone/tree/main
